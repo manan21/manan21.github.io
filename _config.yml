@@ -4,7 +4,7 @@ site_theme               : "default"
 title                    : "Manan Sharma | Academic Portfolio"
 title_separator          : "-"
 name                     : &name "Manan Sharma"
-description              : &description "Computer Engineering student at Virginia Tech with interests in embedded systems, aerospace engineering, and robotics."
+description              : &description "Computer Engineering student at Virginia Tech with interests in embedded systems, aerospace applications, and robotics."
 url                      : https://manan21.github.io
 baseurl                  : ""
 repository               : "manan21/manan21.github.io"
